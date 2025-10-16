@@ -1,6 +1,6 @@
 # What is it 
 
-ch-http is a TUI http client written in go. It supports generation from openAPI spec files. 
+fourhttp is a TUI http client written in go. It supports generation from openAPI spec files. 
 
 # Installation
 
